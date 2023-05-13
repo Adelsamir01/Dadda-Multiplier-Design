@@ -1,0 +1,10 @@
+[2023-05-13 09:05:38 EDT] iverilog design.sv testbench.sv  && unbuffer vvp a.out  
+VCD info: dumpfile dadda_multiplier.vcd opened for output.
+Product of      12345 and      67890 is   662602205684173107
+Product of 4294957420 and      12345 is  3474861609673371705
+Product of 4294954951 and 4294899406 is 17784423351592089295
+Product of       9876 and 4294954951 is 14972163943307923399
+Finding VCD file...
+./dadda_multiplier.vcd
+[2023-05-13 09:05:39 EDT] Opening EPWave...
+Done
